@@ -1,0 +1,1 @@
+C:\SCHOOLMANAGEMENT\BinaryAndTextStream\BinaryAndTextStream\bin\Debug\BinaryAndTextStream.exe.config
